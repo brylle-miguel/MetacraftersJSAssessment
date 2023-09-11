@@ -38,7 +38,7 @@ function getTotalSupply() {
 // the specific values into the variables
 mintNFT("Brylle", "24", "Student", "Peach");
 mintNFT("Jane", "24", "Student", "Mango");
-mintNFT("Aerith", "24", "Student", "Banana");
-mintNFT("Ethan", "24", "Student", "Watermelon");
+mintNFT("Aerith", "9", "Student", "Banana");
+mintNFT("Ethan", "6", "Student", "Watermelon");
 listNFTs();
 getTotalSupply();
