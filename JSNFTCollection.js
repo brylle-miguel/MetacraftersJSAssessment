@@ -12,7 +12,6 @@ function mintNFT (_name, _age, _occupation, _faveFruit) {
         "faveFruit": _faveFruit
     }
     NFTs.push(NFT)
-    console.log("Minted: " + _name);
 }
 
 // in here, I followed the requirements to create a loop that will
